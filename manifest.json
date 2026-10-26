@@ -1,0 +1,16 @@
+{
+  "name": "শিখন সঙ্গী — লার্নিং স্ট্রিক ট্র্যাকার",
+  "short_name": "শিখন সঙ্গী",
+  "description": "নিজের সিলেবাস তৈরি করুন এবং শেখার ধারাবাহিকতা ধরে রাখুন",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0b2e",
+  "theme_color": "#4f46e5",
+  "lang": "bn",
+  "icons": [
+    { "src": "/icons/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
